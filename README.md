@@ -1,6 +1,6 @@
 <div align="center">
     <h2>About Me</h2>
-    <p>:D</p>
+    <p>Mad Scientist</p>
 
 <div align="center">
     <p>
