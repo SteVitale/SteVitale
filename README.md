@@ -6,7 +6,7 @@
 
 <div align="center">
     <p>
-        <img src="./okarin.gif" alt="Descriptive Text for the GIF" />
+        <img src="./assets/okarin.gif" alt="Descriptive Text for the GIF" />
     </p>
 </div>
 
